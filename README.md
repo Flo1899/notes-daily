@@ -1,0 +1,3 @@
+# notes-daily
+
+Private notes.
